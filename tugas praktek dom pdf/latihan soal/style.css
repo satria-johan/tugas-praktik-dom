@@ -1,0 +1,31 @@
+body {
+    font-family: Arial;
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+#taskInput {
+    padding: 8px;
+    width: 70%;
+}
+
+button {
+    padding: 8px 15px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    margin: 5px 0;
+    padding: 8px;
+    background: #ffffff;
+}
+.delete{
+    color: red;
+    margin-left: 10px;
+    cursor: pointer;
+}
